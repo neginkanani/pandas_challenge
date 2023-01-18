@@ -1,7 +1,4 @@
-# Unit 4 Homework: Pandas, Pandas, Pandas
+This code is used to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
+This code analyze the district-wide standardized test results. Access to every student's math and reading scores are provided, as well as various information on the schools they attend. Here the data are aggregated  to showcase obvious trends in school performance.
 
-The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+After analysing 
